@@ -24,7 +24,7 @@ npm run start
 The tests will be run with Artillery.io, so please install it globally or run it with npx:
 
 ```sh
-npx artillery run ./scenario/file-item.yml
+npx artillery run ./scenarios/file-item.yml
 ```
 
 ## Scenarios
