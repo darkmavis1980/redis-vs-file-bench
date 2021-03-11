@@ -1,0 +1,102 @@
+{
+  "title": "St. Peter's Pool, Malta",
+  "slug": "st-peters-pool-malta",
+  "photo": {
+    "name": "_DSF1034-HDR.jpg",
+    "alternativeText": "",
+    "caption": "",
+    "hash": "DSF_1034_HDR_911182fe0e",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 247.18,
+    "width": 1500,
+    "height": 1000,
+    "url": "https://cdn.alessiomichelini.com/DSF_1034_HDR_911182fe0e.jpg",
+    "formats": {
+      "thumbnail": {
+        "name": "thumbnail__DSF1034-HDR.jpg",
+        "hash": "thumbnail_DSF_1034_HDR_911182fe0e",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "width": 234,
+        "height": 156,
+        "size": 8.24,
+        "path": null,
+        "url": "https://cdn.alessiomichelini.com/thumbnail_DSF_1034_HDR_911182fe0e.jpg"
+      },
+      "large": {
+        "name": "large__DSF1034-HDR.jpg",
+        "hash": "large_DSF_1034_HDR_911182fe0e",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "width": 1000,
+        "height": 667,
+        "size": 115.37,
+        "path": null,
+        "url": "https://cdn.alessiomichelini.com/large_DSF_1034_HDR_911182fe0e.jpg"
+      },
+      "medium": {
+        "name": "medium__DSF1034-HDR.jpg",
+        "hash": "medium_DSF_1034_HDR_911182fe0e",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "width": 750,
+        "height": 500,
+        "size": 67.45,
+        "path": null,
+        "url": "https://cdn.alessiomichelini.com/medium_DSF_1034_HDR_911182fe0e.jpg"
+      },
+      "small": {
+        "name": "small__DSF1034-HDR.jpg",
+        "hash": "small_DSF_1034_HDR_911182fe0e",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "width": 500,
+        "height": 333,
+        "size": 31.97,
+        "path": null,
+        "url": "https://cdn.alessiomichelini.com/small_DSF_1034_HDR_911182fe0e.jpg"
+      }
+    },
+    "provider": "aws-s3",
+    "related": ["5f1c9f9904b5330bd7e2f91a"],
+    "createdAt": "2020-07-25T21:09:38.914Z",
+    "updatedAt": "2020-07-25T21:09:45.756Z",
+    "__v": 0,
+    "id": "5f1c9f9204b5330bd7e2f919"
+  },
+  "meta": [
+    {
+
+      "tag": "malta",
+      "createdAt": "2020-08-02T15:39:19.003Z",
+      "updatedAt": "2020-10-04T00:48:03.174Z",
+      "__v": 0,
+      "id": "5f26de269b50430a5ffe9ff3"
+    },
+    {
+
+      "tag": "seaside",
+      "createdAt": "2020-08-02T15:39:19.004Z",
+      "updatedAt": "2020-10-04T00:48:03.188Z",
+      "__v": 0,
+      "id": "5f26de269b50430a5ffe9ff4"
+    },
+    {
+
+      "tag": "landmark",
+      "createdAt": "2020-08-02T15:39:19.004Z",
+      "updatedAt": "2020-10-04T00:48:03.187Z",
+      "__v": 0,
+      "id": "5f26de269b50430a5ffe9ff5"
+    },
+    {
+
+      "tag": "travel",
+      "createdAt": "2020-08-02T15:39:19.004Z",
+      "updatedAt": "2020-10-04T00:48:03.182Z",
+      "__v": 0,
+      "id": "5f26de269b50430a5ffe9ff6"
+    }
+  ]
+}
